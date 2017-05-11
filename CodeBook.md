@@ -53,7 +53,9 @@ The original HAR data set was transformed in the following ways to produce tidy_
       * Acc -> Acceleration
       * Gyro -> Gyroscope
       * Mag -> Magnitude 
-   * capitalized Mean and StandardDeviation labels since no longer separated by special characters (mean -> Mean; std -> StandardDeviation)
+   * capitalized Mean and StandardDeviation labels since no longer separated by special characters 
+      * mean -> Mean
+      * std -> StandardDeviation)
    * replaced typo BodyBody with Body
 6. Averaged each remaining feature variable for each combination of activity and subject_id to create the final data set tidy_activity_by_subj_data.txt
 
