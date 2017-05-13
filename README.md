@@ -1,9 +1,7 @@
 # Getting and Cleaning Data Project
 
-The Human Activity Recognition data set was collected from the accelerometers from the Samsung Galaxy S smartphone while 30 participants carried out activities of daily living. A full description is available at the site where the data were obtained:
+The goal of this project was to clean the Human Activity Recognition (HAR) data set. The HAR data were collected from the accelerometers from the Samsung Galaxy S smartphone while 30 participants carried out activities of daily living. A full description is available at the site where the data were obtained:
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
-
-In the current project, the HAR data set was retrieved and cleaned to make a single, tidy data set.
 
 ## File descriptions
 This repository contains the following files:
